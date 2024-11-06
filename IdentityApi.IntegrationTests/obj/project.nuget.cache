@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mebftUZikr4=",
+  "dgSpecHash": "bvaLPf5OsII=",
   "success": true,
-  "projectFilePath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
+  "projectFilePath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MilanFilipovic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\MilanFilipovic\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

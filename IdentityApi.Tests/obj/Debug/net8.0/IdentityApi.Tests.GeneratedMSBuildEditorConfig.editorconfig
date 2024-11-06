@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IdentityApi.Tests
-build_property.ProjectDir = e:\Programiranje\github actions project\backend\IdentityApi.Tests\
+build_property.ProjectDir = E:\Programiranje\github actions project\backend\IdentityApi.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

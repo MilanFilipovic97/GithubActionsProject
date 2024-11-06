@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj": {}
+    "E:\\Programiranje\\github actions project\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj": {}
   },
   "projects": {
-    "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj": {
+    "E:\\Programiranje\\github actions project\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj",
+        "projectUniqueName": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj",
         "projectName": "IdentityApi.Tests",
-        "projectPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj",
+        "projectPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.Tests\\IdentityApi.Tests.csproj",
         "packagesPath": "C:\\Users\\MilanFilipovic\\.nuget\\packages\\",
-        "outputPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.Tests\\obj\\",
+        "outputPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MilanFilipovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -23,15 +23,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\RokoLabs\\lokalni nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/k1xinc/index.json": {},
+          "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.CrossYear/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.PublicProxy/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj": {
-                "projectPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj"
+              "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj": {
+                "projectPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj"
               }
             }
           }
@@ -96,14 +98,14 @@
         }
       }
     },
-    "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj": {
+    "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj",
+        "projectUniqueName": "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj",
         "projectName": "IdentityApi",
-        "projectPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj",
+        "projectPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj",
         "packagesPath": "C:\\Users\\MilanFilipovic\\.nuget\\packages\\",
-        "outputPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\obj\\",
+        "outputPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MilanFilipovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,8 +117,10 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\RokoLabs\\lokalni nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/k1xinc/index.json": {},
+          "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.CrossYear/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.PublicProxy/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

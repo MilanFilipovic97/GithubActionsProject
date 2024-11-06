@@ -10,3 +10,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get code
+        uses: actions/checkout@v3
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Build project
+        run: dotnet build
+      - name: Deploy (upload) project to some hosting server
+        run: echo "deployed!"

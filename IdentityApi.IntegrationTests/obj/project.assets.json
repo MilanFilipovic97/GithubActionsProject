@@ -9873,11 +9873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
+      "projectUniqueName": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
       "projectName": "IdentityApi.IntegrationTests",
-      "projectPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
+      "projectPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.IntegrationTests\\IdentityApi.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\MilanFilipovic\\.nuget\\packages\\",
-      "outputPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi.IntegrationTests\\obj\\",
+      "outputPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MilanFilipovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9889,15 +9889,17 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\RokoLabs\\lokalni nuget": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/k1xinc/index.json": {},
+        "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.CrossYear/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/k1x/K1x/_packaging/K1x-Ctrac.PublicProxy/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj": {
-              "projectPath": "E:\\Programiranje\\IdentityApplication\\backend\\IdentityApi\\IdentityApi.csproj"
+            "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj": {
+              "projectPath": "E:\\Programiranje\\github actions project\\backend\\IdentityApi\\IdentityApi.csproj"
             }
           }
         }
