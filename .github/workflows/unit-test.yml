@@ -1,0 +1,12 @@
+name: Unit Test
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get code
+        uses: actions/checkout
+      - name: Install Node.js
+        uses: actions/setup-node
+        with:
+          node-version: '18'
