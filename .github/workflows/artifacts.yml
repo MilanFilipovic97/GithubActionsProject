@@ -38,6 +38,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: dist-files #you can add name which you want
-          path: IdentityApi/appsettings.json
+          path: '**/bin/Debug/net8.0/*'
       - name: Deploy (upload) project to some hosting server
         run: echo "deployed!"
