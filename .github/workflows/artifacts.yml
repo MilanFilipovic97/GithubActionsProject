@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-  deploy:
+  artifacts:
     needs: test
     runs-on: ubuntu-latest
     steps:
@@ -39,5 +39,12 @@ jobs:
         with:
           name: dist-files #you can add name which you want
           path: '**/bin/Debug/net8.0/*'
-      - name: Deploy (upload) project to some hosting server
-        run: echo "deployed!"
+  deploy:
+    needs: artifacts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: dist-files
+        run: echo "Downloaded artifact"
