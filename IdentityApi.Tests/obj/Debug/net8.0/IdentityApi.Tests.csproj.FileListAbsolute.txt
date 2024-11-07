@@ -173,16 +173,16 @@ E:\Programiranje\IdentityApplication\backend\IdentityApi.Tests\bin\Debug\net8.0\
 E:\Programiranje\IdentityApplication\backend\IdentityApi.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\Programiranje\IdentityApplication\backend\IdentityApi.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_IdentityApi.Tests
+E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\testhost.dll
+E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.deps.json
+E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.runtimeconfig.json
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\appsettings.Development.json
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\appsettings.json
+E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.exe
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\testhost.exe
-E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\testhost.dll
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
-E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.deps.json
-E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.runtimeconfig.json
-E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.exe
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.Tests.deps.json
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.Tests.runtimeconfig.json
 E:\Programiranje\github actions project\backend\IdentityApi.Tests\bin\Debug\net8.0\IdentityApi.Tests.dll
