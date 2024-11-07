@@ -39,6 +39,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: dist-files #you can add name which you want
-          path: appsettings.json
+          path: IdentityApi/appsettings.json
       - name: Deploy (upload) project to some hosting server
         run: echo "deployed!"
