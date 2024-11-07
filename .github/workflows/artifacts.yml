@@ -1,8 +1,7 @@
 name: Deploy Project
 on:
-  push
   #pull_request:
-    types: [opened, edited]
+    #types: [opened, edited]
     # - opened
     # - edited
   workflow_dispatch:
@@ -11,8 +10,8 @@ on:
       - main
       - 'dev-*'
       - 'feat/**'
-    paths-ignore:
-      - '.github/workflows/*'
+    #paths-ignore:
+    #  - '.github/workflows/*'
 jobs:
   test:
     runs-on: ubuntu-latest
